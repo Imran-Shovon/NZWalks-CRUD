@@ -166,3 +166,4 @@ D:\Web Development\Torrent\Coding\Dotnet\NZWalks\NZWalks\NZWalks.API\bin\Debug\n
 D:\Web Development\Torrent\Coding\Dotnet\NZWalks\NZWalks\NZWalks.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\Web Development\Torrent\Coding\Dotnet\NZWalks\NZWalks\NZWalks.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\Web Development\Torrent\Coding\Dotnet\NZWalks\NZWalks\NZWalks.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Web Development\Torrent\Coding\Dotnet\NZWalks\NZWalks\NZWalks.API\obj\Debug\net8.0\NZWalks.API.sourcelink.json
